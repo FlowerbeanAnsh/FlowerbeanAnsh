@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **competitive programming**
 
-- 👨‍💻 All of my projects are available at [https://flowerbeanansh.github.io/Portfolio/](https://flowerbeanansh.github.io/Portfolio/)
-
 - 📫 How to reach me **ansh562000@gmail.com**
 
 - ⚡ Fun fact **I may be slow to respond**
